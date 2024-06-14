@@ -61,5 +61,4 @@ const Add = (props: IconProps) => {
         </svg>
     </>
 }
-Add.defaultProps = defaultProps
 export default Add

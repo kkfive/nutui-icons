@@ -64,5 +64,4 @@ const Icon: FunctionComponent<SVG_IconProps> = (props: SVG_IconProps) => {
         </svg>
     </>
 }
-Icon.defaultProps = defaultProps
 export default Icon
